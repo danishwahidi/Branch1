@@ -1,1 +1,2 @@
 This is the first line in text10 file.
+This is the second line in text10 file.
